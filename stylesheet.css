@@ -29,18 +29,6 @@ li {
   color: rgb(87, 168, 235);
 }
 
-.header-list a:hover {
-  color: rgb(87, 168, 235);
-}
-
-.header-list a {
-  color: rgb(76,76,76);
-  text-decoration: none;
-  float: right;
-  font-size: 15px;
-  padding: 30px 25px;
-}
-
 .main {
    text-align: center;
    padding: 100px 80px;
