@@ -49,3 +49,8 @@ li {
 .copy-container h1 {
   text-align: center;
   font-size: 25px;
+}
+
+.copy-container h2 {
+  text-align: center;
+  font-size: 20px;
